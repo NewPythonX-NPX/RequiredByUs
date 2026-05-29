@@ -1,2 +1,2 @@
-# WebSiteNeed
-Here are the ToS and privacy policy for websites for the donation area. All donations are happily appericated!
+# Required By NPX
+Here we add global stuff that should be everywhere. For websites, etc.
