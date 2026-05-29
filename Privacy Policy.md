@@ -1,13 +1,18 @@
-# Privacy Policy for NPX
+# Privacy Policy for NPX Studios
 
-1. Privacy-first
-   Here at NewPythonX Studio we appreciate your privacy. Under no circumstances will your privacy be invaded, we are GPDR compliant.
-   If anything seems non-compliant, contact us and we'll fix it immediately!
+1. Our Promise
+NewPythonX Studio is committed to your privacy. All NPX applications are designed to work fully offline. We do not collect, store, or process any personal data. Our apps have no telemetry, no analytics, and no tracking mechanisms of any kind.
 
-2. Offline works
-   All NPX applications work fully offline. Most IP trackers require an internet connection to function, which means our offline apps cannot track you by design.
-   Some features may be limited without internet, but all source code is available for verification.
-   
-3. Nothing to hide
-   We are fully open-source, you can decompile our pre-compiled executables. I will not care. We value your trust.
-   That's why everything we build is open-source.
+2. Why We Collect Nothing
+Our software functions entirely on your device. Most tracking tools require an internet connection to send data—our offline apps cannot track you by design. Some features may require internet access (such as update checking), but these are optional and do not transmit personal information.
+
+3. Open Source Transparency
+All NPX projects are fully open-source. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined. We have nothing to hide.
+
+4. GDPR Compliance
+This policy is governed by German law and complies with the General Data Protection Regulation (GDPR). If you believe something is non-compliant, contact us immediately and we will address it.
+
+5. Contact
+For privacy concerns: j00165479@gmail.com
+For legal inquiries: NewPythonX_Studios@proton.me
+Last updated: 29th of May, 2026
