@@ -5,14 +5,15 @@ NewPythonX Studio is committed to your privacy. All NPX applications are designe
 
 2. Why We Collect Nothing
 Our applications do not collect or transmit personal data. Most applications are designed to operate entirely offline.
+We, the studio, do not collect any data of any sort.
 
-3. Open Source Transparency
+4. Open Source Transparency
 All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined. We have nothing to hide.
 
-4. GDPR Compliance
+5. GDPR Compliance
 This policy is governed by German law and complies with the General Data Protection Regulation (GDPR). If you believe something is non-compliant, contact us immediately and we will address it.
 
-5. Contact
+6. Contact
 For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
 Last updated: 7th of June, 2026
