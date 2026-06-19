@@ -1,4 +1,6 @@
 # Privacy Policy for NPX Studios
+Last updated: 19th of June, 2026
+Copyright (c) NewPythonX Studios 2026
 
 1. **Our Promise**
 NewPythonX Studio is committed to your privacy. All NPX applications are designed to work fully or mostly offline. We do not collect, store, or process any personal data. Our apps have no telemetry, no analytics, and no tracking mechanisms of any kind.
@@ -18,4 +20,6 @@ The only times our applications may need network is for update checks and legal 
 5. **Contact**
 For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
-Last updated: 19th of June, 2026
+
+6. **Privacy Policy governed by**
+Germany shall govern this privacy policy. More specfically the GPDR.
