@@ -13,7 +13,10 @@ All NPX projects are fully source-available. You can view, inspect, and verify o
 5. GDPR Compliance
 This policy is governed by German law and complies with the General Data Protection Regulation (GDPR). If you believe something is non-compliant, contact us immediately and we will address it.
 
-6. Contact
+6. Network Connection
+The only times our applications may need network is for update checks and legal checks. We, the studio, do not collect, view, edit, use, sell any public ips that Github may track.
+
+8. Contact
 For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
-Last updated: 7th of June, 2026
+Last updated: 19th of June, 2026
