@@ -16,7 +16,7 @@ For this clause we describe mostly as in:
 - We use online connection for required things such as app version matching. EULA/License Updates, and other required stuff.
 - We will never use internet connection than for that.
 
-2. **Source-avaiable Transparency**
+2. **Source-available Transparency**
 
 All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined (we use PY-installer). We have nothing to hide.
 
@@ -32,6 +32,7 @@ The only times our applications may need network is for update checks and legal 
 
 - We never collect data.
 - Parents should review the application before allowing their child to use it. Since we collect no personal data, we have no mechanism to verify age or obtain parental consent. By allowing their child to use NPX software, parents assume responsibility for reviewing the application.
+- If a parent believes their child's data has been collected, they should contact us immediately.
 - We do not use cookies or any tracking technologies.
 
 6. **Contact**
@@ -39,4 +40,4 @@ For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
 
 7. **Privacy Policy governed by**
-Governed by Germany. More specfically the GPDR.
+Governed by the laws of the Federal Republic of Germany, specifically the GDPR.
