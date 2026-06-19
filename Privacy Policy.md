@@ -31,8 +31,7 @@ The only times our applications may need network is for update checks and legal 
 5. **General Data Usage and Children's Privacy**
 
 - We never collect data.
-- Parents should review the application before allowing their child to use it.
-- Parental Consent must be given for the child under 13 to use the application.
+- Parents should review the application before allowing their child to use it. Since we collect no personal data, we have no mechanism to verify age or obtain parental consent. By allowing their child to use NPX software, parents assume responsibility for reviewing the application.
 - We do not use cookies or any tracking technologies.
 
 6. **Contact**
