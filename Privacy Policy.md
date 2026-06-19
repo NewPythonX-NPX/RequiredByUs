@@ -40,4 +40,4 @@ For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
 
 7. **Privacy Policy governed by**
-Governed by the laws of the Federal Republic of Germany, specifically the GDPR.
+Governed by the laws of the Federal Republic of Germany (Bundesrepublik Deutschland), specifically the General Data Protection Regulation (GDPR).
