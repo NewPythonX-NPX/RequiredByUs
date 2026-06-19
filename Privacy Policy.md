@@ -24,9 +24,9 @@ The only times our applications may need network is for update checks and legal 
 5. **General Data Usage and Children's Privacy**
 
 - We never collect data.
-- Children under the age of 13 should review the application before allowing.
+- Parents should review the application before allowing their child to use it.
 - Parental Consent must be given for the child under 13 to use the application.
-- We don't steal/use any type of cookies.
+- We do not use cookies or any tracking technologies.
 
 6. **Contact**
 For privacy concerns: j00165479@gmail.com
