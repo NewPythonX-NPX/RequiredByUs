@@ -9,7 +9,7 @@ For this clause we describe mostly as in:
 - We use online connection for required things such as app version matching. EULA/License Updates, and other required stuff.
 - We will never use internet connection than for that.
 
-3. **Source-avaiable Transparency**
+2. **Source-avaiable Transparency**
 
 All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined (we use PY-installer). We have nothing to hide.
 
@@ -17,20 +17,20 @@ All NPX projects are fully source-available. You can view, inspect, and verify o
 
 This policy is governed by German law and complies with the General Data Protection Regulation (GDPR). If you believe something is non-compliant, contact us immediately and we will address it.
 
-4. **IPs of conection**
+4. **Network Data**
 
 The only times our applications may need network is for update checks and legal checks. We, the studio, do not collect, view, edit, use, sell any public ips that Github may track. Discord collects data, *but* we are two seperate entities. One is a studio, one is a company.
 
-6. **General Data Usage Summarize and Childern Usage**
+5. **General Data Usage and Children's Privacy**
 
 - We never collect data.
-- Childern under the age of 13 should review the application before allowing.
+- Children under the age of 13 should review the application before allowing.
 - Parental Consent must be given for the child under 13 to use the application.
 - We don't steal/use any type of cookies.
 
-7. **Contact**
+6. **Contact**
 For privacy concerns: j00165479@gmail.com
 For legal inquiries: NewPythonX_Studios@proton.me
 
-8. **Privacy Policy governed by**
+7. **Privacy Policy governed by**
 Governed by Germany. More specfically the GPDR.
