@@ -5,7 +5,7 @@ Copyright (c) NewPythonX Studios 2026
 1. **Our Promise**
 NewPythonX Studio is committed to your privacy. All NPX applications are designed to work fully or mostly offline. We do not collect, store, or process any personal data. Our apps have no telemetry, no analytics, and no tracking mechanisms of any kind.
 
-2. **Open Source Transparency**
+2. **Source-avaiable Transparency**
 
 All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined (we use PY-installer). We have nothing to hide.
 
