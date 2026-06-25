@@ -13,9 +13,8 @@ We follow GDPR principles. Since we collect no data, we are fully compliant.
 NewPythonX Studio is committed to your privacy. All NPX applications are designed to work fully or mostly offline. We do not collect, store, or process any personal data. Our apps have no telemetry, no analytics, and no tracking mechanisms of any kind.
 
 We define 'mostly' as:
-- We use online connection for required things such as app version matching. EULA/License Updates.
+- We use online connection for required things such as app version matching. EULA/License, Applications Updates
 - We will never use internet connection than for that.
-- 
 
 2. **Source-available Transparency**
 
@@ -27,7 +26,7 @@ This policy is governed by German law and complies with the General Data Protect
 
 4. **Network Data**
 
-The only times our applications may need network is for update checks and legal checks. We do not collect, log, or process any IP addresses or network data. Third-party services (GitHub, Discord, Roblox) may log data per their own policies.
+The only times our applications may need network is for update checks and legal checks. We do not collect, log, or process any IP addresses or network data. Third-party services (GitHub, Discord, Roblox, etc) may log data per their own policies. But we don't collect your IP.
 
 5. **General Data Usage and Children's Privacy**
 
