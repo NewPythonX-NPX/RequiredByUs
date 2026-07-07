@@ -1,7 +1,7 @@
 -----------------------------------------------
 # 📜 NewPythonX Studio: Privacy Policy
 
-Last Updated: June 19th 2026
+Last Updated: July 7th 2026
 
 Copyright (c) 2026 NewPythonX Studio. All rights reserved.
 
@@ -27,6 +27,7 @@ This policy is governed by German law and complies with the General Data Protect
 4. **Network Data**
 
 The only times our applications may need network is for update checks and legal checks. We do not collect, log, or process any IP addresses or network data. Third-party services (GitHub, Discord, Roblox, etc) may log data per their own policies. But we don't collect your IP.
+We have no control over and are not responsible for third-party data processing.
 
 5. **General Data Usage and Children's Privacy**
 
