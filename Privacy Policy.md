@@ -1,11 +1,9 @@
 -----------------------------------------------
 # 📜 NewPythonX Studio: Privacy Policy
 
-Last Updated: July 20th 2026
+Last Updated: July 27th 2026
 
 Copyright (c) 2026 NewPythonX Studio. All rights reserved.
-
-We follow GDPR principles. Since we collect no data, we are fully compliant.
 
 -----------------------------------------------
 
@@ -14,11 +12,11 @@ NewPythonX Studio is committed to your privacy. All NPX applications are designe
 
 We define 'mostly offline' as:
 - We only use online internet connection for required things such as app version matching. EULA/License, Applications Updates.
-- We never collect your logged IPs, third party websites (Github.com, Discord.com, Roblox.com, etc.) might collect your ip per their own policies.
+- We never collect your logged IPs, third party websites (Github.com, Discord.com, Roblox.com, etc.) might collect your IP per their own policies. (i.e We don't collect your data, other sites might)
 
 **Source-available Transparency**
 
-All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined (we use PyInstaller).
+All NPX projects are fully source-available. You can view, inspect, and verify our source code at any time. Pre-compiled executables can be decompiled and examined (we use PyInstaller if you want that inforrmation).
 
 **GDPR Compliance**
 
